@@ -1,0 +1,77 @@
+[
+    {
+        "licenceNumber": "1",
+        "licenceClass":"carpenter",
+        "licenceExpiry":{
+            "day": 10,
+            "month": 10,
+            "year": 2021
+        },
+        "customer":{
+            "firstName":"John",
+            "lastName":"Smith",
+            "dob":"1986-12-12",
+            "address":{
+                "street":"123 Street",
+                "suburb": "Wollongong",
+                "state": "NSW",
+                "postCode": 2500
+            }
+        },
+        "qualification":{
+            "certificate":"Cert 1",
+            "experience":"24 months",
+            "supervisorName": "Peter Frank"
+        }
+    },
+    {
+        "licenceNumber": "2",
+        "licenceClass":"electrician",
+        "licenceExpiry":{
+            "day": 12,
+            "month": 12,
+            "year": 2021
+        },
+        "customer":{
+            "firstName":"Thomas",
+            "lastName":"Engine",
+            "dob":"1989-12-12",
+            "address":{
+                "street":"456 Road",
+                "suburb": "Warrawong",
+                "state": "NSW",
+                "postCode": 2502
+            }
+        },
+        "qualification":{
+            "certificate":"Cert 2",
+            "experience":"12 months",
+            "supervisorName": "Frank Peters"
+        }
+    },
+    {
+        "licenceNumber": "3",
+        "licenceClass":"plumber",
+        "licenceExpiry":{
+            "day": 11,
+            "month": 11,
+            "year": 2021
+        },
+        "customer":{
+            "firstName":"Peter",
+            "lastName":"Rabbit",
+            "dob":"2000-05-05",
+            "address":{
+                "street":"789 Drive",
+                "suburb": "Port Kembla",
+                "state": "NSW",
+                "postCode": 2505
+            }
+        },
+        "qualification":{
+            "certificate":"Cert 3",
+            "experience":"",
+            "supervisorName": "Steve Frank"
+        }
+    }
+]
